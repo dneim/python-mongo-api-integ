@@ -2,7 +2,7 @@ import requests
 import json
 import pymongo
 import certifi
-import db_creds
+from Automation_Scripts import db_creds
 import psycopg2.pool
 
 # --- Database Connection ---

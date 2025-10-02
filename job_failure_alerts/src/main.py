@@ -1,5 +1,5 @@
 import pandas as pd
-import db_creds
+from Automation_Scripts import db_creds
 import psycopg2.pool
 
 from email_send import *
