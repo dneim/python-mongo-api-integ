@@ -1,4 +1,4 @@
-# Python | MongoDb | SQL | -  API Integration Projects
+# Python | MongoDb | SQL | API - Integration Projects
 
 ## Overview
 
